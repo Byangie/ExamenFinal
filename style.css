@@ -1,0 +1,54 @@
+body{
+    background-image: url(Fondo2.jpg);
+}
+h1{
+   text-align: center;
+   color: rgb(152, 84, 84);
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.form{
+    padding: 15px;
+    
+    text-align: center;
+}
+
+.uno{
+    border-radius: 20px;
+    padding: 5px;
+    background-color: rgb(237, 181, 160);
+    
+}
+
+.dos{
+    border-radius: 20px;
+    padding: 5px;
+    background-color: rgb(237, 181, 160);
+}
+
+.tres{
+    border-radius: 20px;
+    padding: 5px;
+    background-color: rgb(237, 181, 160);
+}
+
+.cuatro{
+    border-radius: 20px;
+    padding: 5px;
+    background-color: rgb(237, 181, 160);
+}
+
+button{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(156, 54, 86);
+    color: aliceblue;
+    cursor: pointer;
+}
+
+.tabla{
+    justify-content: center;
+    background-color: rgb(219, 172, 210);
+    border: rgb(255, 0, 132);
+}
+
